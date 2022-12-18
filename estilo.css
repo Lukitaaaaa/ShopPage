@@ -190,4 +190,11 @@ header{
     font-weight: 900;
 }
 
+.cart-empty{
+    padding: 20px;
+    text-align: center;
+}
 
+.hidden{
+    display: none;
+}
